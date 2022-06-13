@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="form" section_id="e7c978a0070451104d26ff4c7c1ed09a" sys_domain="global" table="sys_db_object" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>REL.sys_db_object.REL:17a52313bf1030001875647fcf0739d4</element>
+            <position>0</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-06-09 09:26:44</sys_created_on>
+            <sys_id>a37afce0070451104d26ff4c7c1ed0a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="form" display_value="form" name="sys_db_object" sys_domain="global" view="Default view">e7c978a0070451104d26ff4c7c1ed09a</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-06-09 09:26:44</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>form</caption>
+            <header>false</header>
+            <name>sys_db_object</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-06-09 09:23:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e7c978a0070451104d26ff4c7c1ed09a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_db_object</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="App from Scratch" source="x_834851_app_fro_0">f23ddce4078051104d26ff4c7c1ed02d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</sys_scope>
+            <sys_update_name>sys_ui_section_e7c978a0070451104d26ff4c7c1ed09a</sys_update_name>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-06-09 09:23:44</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New section 1" section_id="3fedc7f8078891104d26ff4c7c1ed085" sys_domain="global" table="x_834851_app_fro_0_employeeleave" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>starting_date</element>
+            <position>0</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-06-10 14:49:25</sys_created_on>
+            <sys_id>b3edc7f8078891104d26ff4c7c1ed09e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_834851_app_fro_0_employeeleave" sys_domain="global" view="Default view">3fedc7f8078891104d26ff4c7c1ed085</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-06-10 14:49:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-06-10 14:49:25</sys_created_on>
+            <sys_id>b7edc7f8078891104d26ff4c7c1ed09e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_834851_app_fro_0_employeeleave" sys_domain="global" view="Default view">3fedc7f8078891104d26ff4c7c1ed085</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-06-10 14:49:25</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ending_date</element>
+            <position>2</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-06-10 14:49:25</sys_created_on>
+            <sys_id>bbedc7f8078891104d26ff4c7c1ed09e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_834851_app_fro_0_employeeleave" sys_domain="global" view="Default view">3fedc7f8078891104d26ff4c7c1ed085</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-06-10 14:49:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_834851_app_fro_0_employeeleave</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-06-10 14:49:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3fedc7f8078891104d26ff4c7c1ed085</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_834851_app_fro_0_employeeleave</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="App from Scratch" source="x_834851_app_fro_0">f23ddce4078051104d26ff4c7c1ed02d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</sys_scope>
+            <sys_update_name>sys_ui_section_3fedc7f8078891104d26ff4c7c1ed085</sys_update_name>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-06-10 14:49:25</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

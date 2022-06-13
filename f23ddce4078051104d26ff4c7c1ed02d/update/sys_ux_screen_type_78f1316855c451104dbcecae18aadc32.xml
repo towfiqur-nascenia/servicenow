@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>Login</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-06-09 13:29:16</sys_created_on>
+        <sys_id>78f1316855c451104dbcecae18aadc32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Login</sys_name>
+        <sys_package display_value="App from Scratch" source="x_834851_app_fro_0">f23ddce4078051104d26ff4c7c1ed02d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</sys_scope>
+        <sys_update_name>sys_ux_screen_type_78f1316855c451104dbcecae18aadc32</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-06-09 13:29:16</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=78f1316855c451104dbcecae18aadc32"/>
+</record_update>

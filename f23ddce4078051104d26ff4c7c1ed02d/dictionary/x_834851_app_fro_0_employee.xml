@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Employee" max_length="40" name="x_834851_app_fro_0_employee" sizeclass="0" type="collection">
+        <element display="true" label="Name" mandatory="true" max_length="64" name="name" type="string"/>
+        <element choice="1" label="Role" mandatory="true" max_length="40" name="role" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Software Engineer" sequence="0" value="engineer"/>
+                <element inactive_on_update="false" label="Team Lead" sequence="1" value="lead"/>
+                <element inactive_on_update="false" label="Admin" sequence="2" value="admin"/>
+                <element inactive_on_update="false" label="Technical Director" sequence="3" value="technical"/>
+                <element inactive_on_update="false" label="Business Director" sequence="4" value="business"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Project" max_length="40" name="x_834851_app_fro_0_project" sizeclass="0" text_index="true" type="collection">
+        <element display="true" label="Project Name" mandatory="true" max_length="64" name="project_name" type="string"/>
+    </element>
+</database>

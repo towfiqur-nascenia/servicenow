@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="INSERT_OR_UPDATE">
+        <evam_definition/>
+        <genius_results_limit/>
+        <hit_highlighting>false</hit_highlighting>
+        <name>App from Scratch - Workspace Search</name>
+        <search_engine>zing</search_engine>
+        <search_profile/>
+        <search_results_limit>10</search_results_limit>
+        <spell_check>false</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-06-09 11:30:27</sys_created_on>
+        <sys_id>a3c61dacf044511048a31d4044f2d417</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>App from Scratch - Workspace Search</sys_name>
+        <sys_package display_value="App from Scratch" source="x_834851_app_fro_0">f23ddce4078051104d26ff4c7c1ed02d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</sys_scope>
+        <sys_update_name>sys_search_context_config_a3c61dacf044511048a31d4044f2d417</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-06-09 11:30:27</sys_updated_on>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=a3c61dacf044511048a31d4044f2d417"/>
+</record_update>

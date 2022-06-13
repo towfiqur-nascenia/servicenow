@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_834851_app_fro_0.Github_Connection</id>
+        <multiple_connections>false</multiple_connections>
+        <name>Github Connection</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-13 11:30:12</sys_created_on>
+        <sys_id>1f0dfd31070411104d26ff4c7c1ed01d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_834851_app_fro_0.Github_Connection</sys_name>
+        <sys_package display_value="App from Scratch" source="x_834851_app_fro_0">f23ddce4078051104d26ff4c7c1ed02d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</sys_scope>
+        <sys_update_name>sys_alias_1f0dfd31070411104d26ff4c7c1ed01d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-13 11:30:12</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</application>
+        <file_path/>
+        <instance_id>ea1a46f0dbc844500b9d21c4059619eb</instance_id>
+        <instance_name>dev93534</instance_name>
+        <name>sys_alias_1f0dfd31070411104d26ff4c7c1ed01d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_834851_app_fro_0.Github_Connection</id><multiple_connections>false</multiple_connections><name>Github Connection</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-13 11:30:12</sys_created_on><sys_id>1f0dfd31070411104d26ff4c7c1ed01d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_834851_app_fro_0.Github_Connection</sys_name><sys_package display_value="App from Scratch" source="x_834851_app_fro_0">f23ddce4078051104d26ff4c7c1ed02d</sys_package><sys_policy/><sys_scope display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</sys_scope><sys_update_name>sys_alias_1f0dfd31070411104d26ff4c7c1ed01d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-13 11:30:12</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>666348929</payload_hash>
+        <record_name>x_834851_app_fro_0.Github_Connection</record_name>
+        <reverted_from/>
+        <source>173ddce4078051104d26ff4c7c1ed0ed</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-13 11:30:12</sys_created_on>
+        <sys_id>4f1dfd31070411104d26ff4c7c1ed0bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1815cd417a20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-13 11:30:12</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>871dfd31cb041110c98f8b0ae8c75ebf</update_guid>
+        <update_guid_history>871dfd31cb041110c98f8b0ae8c75ebf:666348929</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-13 12:27:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>0366e6e0850a47f28120475264550049</sys_id>
+        <sys_metadata>1f0dfd31070411104d26ff4c7c1ed01d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_834851_app_fro_0.Github_Connection</sys_name>
+        <sys_package display_value="App from Scratch" source="x_834851_app_fro_0">f23ddce4078051104d26ff4c7c1ed02d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</sys_scope>
+        <sys_scope_delete display_value="">6270b4da5ace4e54805766a7953dd324</sys_scope_delete>
+        <sys_update_name>sys_alias_1f0dfd31070411104d26ff4c7c1ed01d</sys_update_name>
+        <sys_update_version display_value="sys_alias_1f0dfd31070411104d26ff4c7c1ed01d">4f1dfd31070411104d26ff4c7c1ed0bf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-13 12:27:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

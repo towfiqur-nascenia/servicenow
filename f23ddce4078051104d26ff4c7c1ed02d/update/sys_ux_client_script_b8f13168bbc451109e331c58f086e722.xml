@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Article page">f0f131684ac45110696da17dbb0e7c31</macroponent>
+        <name>Toggle Comment Reaction</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({ api, event, imports }) {
+  var likeCommentPayload = {
+    operation: {
+      dataElementId: "like_knowledge_comment",
+      operationName: "EXECUTE"
+    },
+    operationPayload: {
+      commentId: event.payload.commentId,
+      articleId: api.context.props.sysId
+    }
+  }
+
+  var unlikeCommentPayload = {
+    operation: {
+      dataElementId: "unlike_knowledge_comment",
+      operationName: "EXECUTE"
+    },
+    operationPayload: {
+      commentId: event.payload.commentId,
+      articleId: api.context.props.sysId
+    }
+  }
+
+  if (event.payload.reaction) {
+    api.emit("UXF_DB_OP_TRIGGER_REQUESTED", likeCommentPayload);
+  } else {
+    api.emit("UXF_DB_OP_TRIGGER_REQUESTED", unlikeCommentPayload);
+  }
+}
+]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-06-09 13:29:19</sys_created_on>
+        <sys_id>b8f13168bbc451109e331c58f086e722</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Toggle Comment Reaction</sys_name>
+        <sys_package display_value="App from Scratch" source="x_834851_app_fro_0">f23ddce4078051104d26ff4c7c1ed02d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</sys_scope>
+        <sys_update_name>sys_ux_client_script_b8f13168bbc451109e331c58f086e722</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-06-09 13:29:19</sys_updated_on>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Main Configuration</description>
+        <name>chrome_main</name>
+        <page display_value="App from Scratch">97c6d9ac394451102880b29bcff96ab4</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-06-09 11:30:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>97c6d9acb4445110f0b8bb2644819ab2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_main</sys_name>
+        <sys_package display_value="App from Scratch" source="x_834851_app_fro_0">f23ddce4078051104d26ff4c7c1ed02d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</sys_scope>
+        <sys_update_name>sys_ux_page_property_97c6d9acb4445110f0b8bb2644819ab2</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-06-09 11:30:26</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_834851_app_fro_0.97c6d9ac394451102880b29bcff96ab4.root.chrome_main</unique_name>
+        <value>{&#13;
+  "maxCachedPageCount": 5,&#13;
+  "maxActivePageCount": 3,&#13;
+  "timeLeftWarning": 15&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=97c6d9acb4445110f0b8bb2644819ab2"/>
+</record_update>

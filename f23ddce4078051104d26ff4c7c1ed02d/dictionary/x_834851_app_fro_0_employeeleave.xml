@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="EmployeeLeave" max_length="40" name="x_834851_app_fro_0_employeeleave" sizeclass="0" type="collection">
+        <element display="true" label="employee" mandatory="true" max_length="32" name="employee" reference="x_834851_app_fro_0_employee" type="reference"/>
+        <element label="Ending Date" max_length="40" name="ending_date" type="glide_date"/>
+        <element label="Starting Date" max_length="40" name="starting_date" type="glide_date"/>
+        <element label="Total Hours" max_length="40" name="total_hours" type="integer"/>
+        <index name="index">
+            <element name="employee"/>
+        </index>
+    </element>
+</database>

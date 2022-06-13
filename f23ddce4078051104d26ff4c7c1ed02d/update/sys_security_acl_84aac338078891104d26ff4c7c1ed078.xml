@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_834851_app_fro_0_employeeleave</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-06-10 14:34:57</sys_created_on>
+        <sys_id>84aac338078891104d26ff4c7c1ed078</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_834851_app_fro_0_employeeleave</sys_name>
+        <sys_package display_value="App from Scratch" source="x_834851_app_fro_0">f23ddce4078051104d26ff4c7c1ed02d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</sys_scope>
+        <sys_update_name>sys_security_acl_84aac338078891104d26ff4c7c1ed078</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-06-10 14:34:57</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

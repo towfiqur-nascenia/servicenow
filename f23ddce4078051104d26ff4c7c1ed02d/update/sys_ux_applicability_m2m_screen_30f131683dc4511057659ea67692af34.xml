@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">b0f131680cc45110caa622a016714339</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">bcf1316898c45110279eb166347f2c33</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-06-09 13:29:19</sys_created_on>
+        <sys_id>30f131683dc4511057659ea67692af34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="App from Scratch" source="x_834851_app_fro_0">f23ddce4078051104d26ff4c7c1ed02d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_30f131683dc4511057659ea67692af34</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-06-09 13:29:19</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-06-09 11:30:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1fc6d9aca4445110368ae65fd15228b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="App from Scratch" source="x_834851_app_fro_0">f23ddce4078051104d26ff4c7c1ed02d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</sys_scope>
+        <sys_update_name>m2m_app_config_theme_1fc6d9aca4445110368ae65fd15228b4</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-06-09 11:30:27</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">9bc6d9ac9d445110d2af774f44c60ab4</theme>
+        <ux_app_configuration display_value="App from Scratch Config">d7c6d9ace7445110ee73be07f35d05b4</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

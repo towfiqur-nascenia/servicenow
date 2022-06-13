@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="App from Scratch Catalog">3a828ae4070851104d26ff4c7c1ed0cc</sc_cat_item>
+        <sc_catalog display_value="Resources">8752afd953133300a8ed21fac2dc34ac</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-06-09 14:48:40</sys_created_on>
+        <sys_id>1b244668070851104d26ff4c7c1ed065</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Resources.App from Scratch Catalog</sys_name>
+        <sys_package display_value="App from Scratch" source="x_834851_app_fro_0">f23ddce4078051104d26ff4c7c1ed02d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_1b244668070851104d26ff4c7c1ed065</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-06-09 14:48:40</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</application>
+        <file_path/>
+        <instance_id>ea1a46f0dbc844500b9d21c4059619eb</instance_id>
+        <instance_name>dev93534</instance_name>
+        <name>sc_cat_item_catalog_1b244668070851104d26ff4c7c1ed065</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="App from Scratch Catalog">3a828ae4070851104d26ff4c7c1ed0cc</sc_cat_item><sc_catalog display_value="Resources">8752afd953133300a8ed21fac2dc34ac</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>aes.creator</sys_created_by><sys_created_on>2022-06-09 14:48:40</sys_created_on><sys_id>1b244668070851104d26ff4c7c1ed065</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Resources.App from Scratch Catalog</sys_name><sys_package display_value="App from Scratch" source="x_834851_app_fro_0">f23ddce4078051104d26ff4c7c1ed02d</sys_package><sys_policy/><sys_scope display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</sys_scope><sys_update_name>sc_cat_item_catalog_1b244668070851104d26ff4c7c1ed065</sys_update_name><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2022-06-09 14:48:40</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1323040180</payload_hash>
+        <record_name>Resources.App from Scratch Catalog</record_name>
+        <reverted_from/>
+        <source>173ddce4078051104d26ff4c7c1ed0ed</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-06-09 14:48:40</sys_created_on>
+        <sys_id>d3244668070851104d26ff4c7c1ed06b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18148f05b9d0000001</sys_recorded_at>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-06-09 14:48:40</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>5b2446682b085110253027bba3d1c46a</update_guid>
+        <update_guid_history>5b2446682b085110253027bba3d1c46a:-1323040180</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Resources.App from Scratch Catalog">94344668070851104d26ff4c7c1ed0ed</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-06-09 14:48:44</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>a09b40edc2e94b88ae87d55118568a40</sys_id>
+        <sys_metadata>1b244668070851104d26ff4c7c1ed065</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Resources.App from Scratch Catalog</sys_name>
+        <sys_package display_value="App from Scratch" source="x_834851_app_fro_0">f23ddce4078051104d26ff4c7c1ed02d</sys_package>
+        <sys_parent display_value="App from Scratch Catalog">3a828ae4070851104d26ff4c7c1ed0cc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</sys_scope>
+        <sys_scope_delete display_value="">6270b4da5ace4e54805766a7953dd324</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_1b244668070851104d26ff4c7c1ed065</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_1b244668070851104d26ff4c7c1ed065">d3244668070851104d26ff4c7c1ed06b</sys_update_version>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-06-09 14:48:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

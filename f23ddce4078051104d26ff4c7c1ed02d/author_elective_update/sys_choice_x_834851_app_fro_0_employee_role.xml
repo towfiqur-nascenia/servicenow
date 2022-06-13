@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="role" table="x_834851_app_fro_0_employee" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>role</element>
+            <name>x_834851_app_fro_0_employee</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-06-10 13:14:48</sys_created_on>
+            <sys_id>ce483638074891104d26ff4c7c1ed099</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>role</sys_name>
+            <sys_package display_value="App from Scratch" source="x_834851_app_fro_0">f23ddce4078051104d26ff4c7c1ed02d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</sys_scope>
+            <sys_update_name>sys_choice_x_834851_app_fro_0_employee_role</sys_update_name>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-06-10 13:14:48</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Software Engineer</label>
+            <language>en</language>
+            <name>x_834851_app_fro_0_employee</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-06-10 13:14:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a483638074891104d26ff4c7c1ed099</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-06-10 13:14:48</sys_updated_on>
+            <value>engineer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Team Lead</label>
+            <language>en</language>
+            <name>x_834851_app_fro_0_employee</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-06-10 13:14:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6483638074891104d26ff4c7c1ed09b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-06-10 13:14:48</sys_updated_on>
+            <value>lead</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Admin</label>
+            <language>en</language>
+            <name>x_834851_app_fro_0_employee</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-06-10 13:14:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46483638074891104d26ff4c7c1ed09c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-06-10 13:14:48</sys_updated_on>
+            <value>admin</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Technical Director</label>
+            <language>en</language>
+            <name>x_834851_app_fro_0_employee</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-06-10 13:14:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c2483638074891104d26ff4c7c1ed09d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-06-10 13:14:48</sys_updated_on>
+            <value>technical</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>role</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Business Director</label>
+            <language>en</language>
+            <name>x_834851_app_fro_0_employee</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-06-10 13:14:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>42483638074891104d26ff4c7c1ed09e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-06-10 13:14:48</sys_updated_on>
+            <value>business</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

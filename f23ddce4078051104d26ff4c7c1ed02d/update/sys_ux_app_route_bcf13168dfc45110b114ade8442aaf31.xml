@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="App from Scratch Portal Config">bfe1fd2807c451104d26ff4c7c1ed0cc</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Indicate your decision</name>
+        <optional_parameters/>
+        <order>100</order>
+        <parent_macroponent display_value="Record Page(task)">70f1316841c45110f617590798658634</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_tasks</route_type>
+        <screen_type display_value="Indicate your decision">f8f131686bc451109034cf9aa6b0e031</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-06-09 13:29:28</sys_created_on>
+        <sys_id>bcf13168dfc45110b114ade8442aaf31</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Indicate your decision</sys_name>
+        <sys_package display_value="App from Scratch" source="x_834851_app_fro_0">f23ddce4078051104d26ff4c7c1ed02d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</sys_scope>
+        <sys_update_name>sys_ux_app_route_bcf13168dfc45110b114ade8442aaf31</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-06-09 13:29:28</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=bcf13168dfc45110b114ade8442aaf31"/>
+</record_update>

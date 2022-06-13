@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>200</order>
+        <search_context_config display_value="App from Scratch - Workspace Search">9fc6d9ac4e4451107536c2864a244097</search_context_config>
+        <source display_value="App from Scratch - ">ead69dac074451104d26ff4c7c1ed00b</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-06-09 11:30:39</sys_created_on>
+        <sys_id>aed69dac074451104d26ff4c7c1ed00d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="App from Scratch" source="x_834851_app_fro_0">f23ddce4078051104d26ff4c7c1ed02d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_aed69dac074451104d26ff4c7c1ed00d</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-06-09 11:30:39</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

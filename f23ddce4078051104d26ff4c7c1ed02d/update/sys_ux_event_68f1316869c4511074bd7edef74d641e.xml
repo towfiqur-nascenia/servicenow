@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>GLIDE_FORM_1_SET_VALUE_RELAY_e8f1316821c45110aa611ced15e4161e</event_name>
+        <interfaces/>
+        <label>Glide Form 1 SET_VALUE Relay (Tasks Default)</label>
+        <props>[{"name":"fieldName","fieldType":"string","label":"Field Name"},{"name":"value","fieldType":"string","label":"Value"},{"name":"displayValue","fieldType":"string","label":"Display Value"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-06-09 13:29:24</sys_created_on>
+        <sys_id>68f1316869c4511074bd7edef74d641e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide Form 1 SET_VALUE Relay (Tasks Default)</sys_name>
+        <sys_package display_value="App from Scratch" source="x_834851_app_fro_0">f23ddce4078051104d26ff4c7c1ed02d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App from Scratch">f23ddce4078051104d26ff4c7c1ed02d</sys_scope>
+        <sys_update_name>sys_ux_event_68f1316869c4511074bd7edef74d641e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-06-09 13:29:24</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=68f1316869c4511074bd7edef74d641e"/>
+</record_update>
